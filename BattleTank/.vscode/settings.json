@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/diego/Work/Research/Code/Unreal/BattleTank/BattleTank/.vscode": true,
+		"/Users/diego/Work/Research/Code/Unreal/BattleTank/BattleTank/Content": true,
+		"/Users/diego/Work/Research/Code/Unreal/BattleTank/BattleTank/Intermediate": true
+	}
+}
